@@ -1,0 +1,44 @@
+/* *{
+   padding: 0; 
+   margin: 0;
+   box-sizing: border-box;
+}
+body{
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: rgb(129, 184, 11);
+}
+.parent{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    position: inherit;
+    top: 100px;
+    left: 100px;
+} */
+/* .parent{
+    background-color: antiquewhite;
+    width: 500px;
+}
+h1{
+    background-color: blue;
+    width: 400px;
+    height: 500;
+    text-align: center;
+} */
+button:hover{
+    width: 60x;
+    height: 20px;
+    transition-duration: 1s;
+    background-color: brown;
+    padding: auto;
+    @keyframes button-animation-type-1{
+        0{
+            top:20px;
+            left:40px
+            
+    
+        }
+        
+    }
+}
